@@ -2,5 +2,4 @@
 layout: default
 ---
 he!
-with:
-  IMG_REPOSITORY: <username>/<imagerepo>
+_includes/02-image.md
